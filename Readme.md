@@ -26,7 +26,7 @@ A FCM notification will be send to the registered Android Things app. The app re
 
 ## Publications
 - Personal Blog: [[Android Things] Google Firebase Cloud Messaging Pager mit Android Things](https://tscholze.uber.space/2018/01/02/android-google-firebase-cloud-messaging-pager-mit-android-things/)
-- Hackster.io: [https://www.hackster.io/tscholze/firebase-cloud-messaging-android-things-pager-c07e64](Firebase Cloud Messaging / Android Things Pager)
+- Hackster.io: [(Firebase Cloud Messaging / Android Things Pager](https://www.hackster.io/tscholze/firebase-cloud-messaging-android-things-pager-c07e64)
 
 
 ## Contributing
