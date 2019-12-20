@@ -24,6 +24,9 @@ A FCM notification will be send to the registered Android Things app. The app re
 * Go to the FCM console and send a notification
 * If everything works as expected: The notications body text will be displayed on the segment display
 
+## Publications
+- Personal Blog: [[Android Things] Google Firebase Cloud Messaging Pager mit Android Things](https://tscholze.uber.space/2018/01/02/android-google-firebase-cloud-messaging-pager-mit-android-things/)
+- Hackster.io: [ToboT: Android Things-Based, Voice-Controlled Vehicle](https://www.hackster.io/tscholze/tobot-android-things-based-voice-controlled-vehicle-d7baca)
 
 ## Contributing
 
